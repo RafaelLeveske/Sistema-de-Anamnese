@@ -3,7 +3,21 @@ const connection = require('../database/connection');
 module.exports = {
 
     async index (request, response) {
-        const paciente = await connection('paciente').select('*');
+
+        const { page = 1 } = request.query;
+
+        const [count] = await connection('paciente').count();
+
+        const paciente = await connection('paciente')
+        .join('psicologo', 'psicologo.id', '=', 'paciente.psicologo_id')
+        .limit(5)
+        .offset((page - 1) * 5)
+        .select([
+            'paciente.*',
+            'psicologo.crp'
+            ]);
+
+        response.header('X-Total-Count', count['count(*)']);
     
         return response.json(paciente);
 

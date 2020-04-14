@@ -1,6 +1,4 @@
-# Sistema-de-Anamnese
-
-Sistema inicialmente desenvolvido para propósito de gerênciar prontuarios relacionado a consultas psicológicas em clínicas de psicologia
+# Sistema de Anamnese
 
 ## 📝 Conteúdo
 
@@ -12,6 +10,11 @@ Sistema inicialmente desenvolvido para propósito de gerênciar prontuarios rela
 - [Considerações finais](#acknowledgement)
 
 ---
+
+## 🏁 Sobre <a name = "about"></a>
+
+- Sistema inicialmente desenvolvido para propósito de gerênciar prontuarios relacionado a consultas psicológicas em clínicas de psicologia
+
 
 ## 🏁 Inicializando a aplicação <a name = "getting_started"></a>
 

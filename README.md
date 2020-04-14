@@ -13,7 +13,7 @@
 
 ## 🏁 Sobre <a name = "about"></a>
 
-- Sistema inicialmente desenvolvido para propósito de gerênciar prontuarios relacionado a consultas psicológicas em clínicas de psicologia
+- Sistema inicialmente desenvolvido com o propósito de gerênciar prontuarios relacionado a consultas psicológicas em clínicas de psicologia
 
 
 ## 🏁 Inicializando a aplicação <a name = "getting_started"></a>

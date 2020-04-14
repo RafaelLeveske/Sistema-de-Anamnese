@@ -53,7 +53,7 @@ para testar o funcionamento das rotas e armazenamento em banco de dados, use um 
 ## ⛏️ Ferramentas <a name = "built_using"></a>
 
 - [Node](https://nodejs.org/en/) - Javascript Runtime Environment.
-- [Express] (https://expressjs.com/pt-br/) - Framework Web.
+- [Express](https://expressjs.com/pt-br/) - Framework Web.
 
 ## ✍️ Autores <a name = "authors"></a>
 

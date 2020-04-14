@@ -54,6 +54,8 @@ para testar o funcionamento das rotas e armazenamento em banco de dados, use um 
 
 - [Node](https://nodejs.org/en/) - Javascript Runtime Environment.
 - [Express](https://expressjs.com/pt-br/) - Framework Web.
+- [Knex](http://knexjs.org/) - SQL query builder.
+- [SQLite](https://www.sqlite.org/) SQL database engine.
 
 ## ✍️ Autores <a name = "authors"></a>
 

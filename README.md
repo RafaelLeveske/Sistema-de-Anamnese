@@ -21,7 +21,7 @@
 - O Back-End da aplicação foi desenvolvido em Node JS com o framework Express, para query SQL foi usado o query builder Knex, com o banco de dados SQLite3.
 
 ### Pré-requisitos
-- De preferência o editor de códigos Visual Studio Code.
+- De preferência o editor de códigos [Visual Studio Code](https://code.visualstudio.com/download). E interpretador JavaScript [NodeJS](https://nodejs.org/pt-br/download/) também instalado
 
 ### Instalação
 
@@ -48,7 +48,7 @@ npm start
 ## 🎈 Uso <a name="usage"></a>
 
 Atualmente a aplicação conta apenas com o Back-End API REST em funcionamento, de acordo com a prototipação desenvolvida.
-para testar o funcionamento das rotas e armazenamento em banco de dados, use um software como o Postman ou Insomnia.
+para testar o funcionamento das rotas e armazenamento em banco de dados, use um software como o [Postman](https://www.postman.com/downloads/) ou [Insomnia](https://insomnia.rest/download/).
 
 ## ⛏️ Ferramentas <a name = "built_using"></a>
 
